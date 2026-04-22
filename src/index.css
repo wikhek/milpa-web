@@ -1,0 +1,122 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* MILPA design system — dark luxury + gold accent */
+
+@layer base {
+  :root {
+    --background: 20 18% 6%;
+    --foreground: 43 20% 94%;
+
+    --card: 20 15% 9%;
+    --card-foreground: 43 20% 94%;
+
+    --popover: 20 15% 9%;
+    --popover-foreground: 43 20% 94%;
+
+    --primary: 0 85% 48%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 20 20% 15%;
+    --secondary-foreground: 43 20% 94%;
+
+    --muted: 20 15% 13%;
+    --muted-foreground: 43 12% 55%;
+
+    --accent: 43 72% 52%;
+    --accent-foreground: 20 18% 6%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 20 20% 16%;
+    --input: 20 20% 16%;
+    --ring: 43 72% 52%;
+
+    --radius: 0.75rem;
+
+    --gold: 43 72% 55%;
+    --gold-dark: 43 55% 35%;
+    --red: 0 85% 48%;
+    --red-glow: 8 90% 55%;
+
+    --gradient-hero: linear-gradient(135deg, hsl(20 25% 5%) 0%, hsl(20 18% 8%) 55%, hsl(0 35% 14%) 100%);
+    --gradient-orange: linear-gradient(135deg, hsl(0 85% 48%), hsl(8 90% 55%));
+    --gradient-gold: linear-gradient(135deg, hsl(43 55% 35%), hsl(43 80% 65%));
+    --gradient-gold-subtle: linear-gradient(135deg, hsl(43 50% 30%), hsl(43 70% 55%));
+
+    --shadow-orange: 0 20px 60px -15px hsl(0 85% 48% / 0.55);
+    --shadow-gold: 0 20px 60px -15px hsl(43 72% 52% / 0.45);
+    --shadow-card: 0 20px 50px -20px hsl(20 30% 2% / 0.7);
+
+    --sidebar-background: 20 15% 9%;
+    --sidebar-foreground: 43 20% 94%;
+    --sidebar-primary: 43 72% 52%;
+    --sidebar-primary-foreground: 20 18% 6%;
+    --sidebar-accent: 20 15% 13%;
+    --sidebar-accent-foreground: 43 20% 94%;
+    --sidebar-border: 20 20% 16%;
+    --sidebar-ring: 43 72% 52%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+  h1, h2, h3, h4 {
+    font-family: 'Montserrat', 'Inter', sans-serif;
+    @apply tracking-tight;
+  }
+}
+
+@layer utilities {
+  .bg-hero-gradient { background: var(--gradient-hero); }
+  .bg-orange-gradient { background: var(--gradient-orange); }
+  .bg-gold-gradient { background: var(--gradient-gold); }
+  .shadow-orange-glow { box-shadow: var(--shadow-orange); }
+  .shadow-gold-glow { box-shadow: var(--shadow-gold); }
+  .shadow-card-elev { box-shadow: var(--shadow-card); }
+  .text-gradient-orange {
+    background: var(--gradient-orange);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  .text-gradient-gold {
+    background: var(--gradient-gold);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  .text-gold {
+    color: hsl(var(--gold));
+  }
+  .border-gold {
+    border-color: hsl(var(--gold) / 0.5);
+  }
+  .bg-facebook { background-color: #1877F2; }
+  .text-facebook { color: #1877F2; }
+  .hover\:bg-facebook:hover { background-color: #1877F2; }
+}
+
+@keyframes pulse-ring {
+  0% { box-shadow: 0 0 0 0 hsl(0 85% 48% / 0.6); }
+  70% { box-shadow: 0 0 0 22px hsl(0 85% 48% / 0); }
+  100% { box-shadow: 0 0 0 0 hsl(0 85% 48% / 0); }
+}
+.animate-pulse-ring { animation: pulse-ring 2s infinite; }
+
+@keyframes float-up {
+  from { opacity: 0; transform: translateY(24px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-float-up { animation: float-up 0.8s ease-out both; }

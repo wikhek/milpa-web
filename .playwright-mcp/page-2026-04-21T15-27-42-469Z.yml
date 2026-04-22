@@ -1,0 +1,390 @@
+- generic [ref=e2]:
+  - region "Notifications (F8)":
+    - list
+  - region "Notifications alt+T"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "MILPA logo MILPA Remonty Kompleksowe" [ref=e6] [cursor=pointer]:
+          - /url: "#top"
+          - img "MILPA logo" [ref=e7]
+          - generic [ref=e8]:
+            - generic [ref=e9]: MILPA
+            - generic [ref=e10]: Remonty Kompleksowe
+        - generic [ref=e11]:
+          - link "Facebook MILPA" [ref=e12] [cursor=pointer]:
+            - /url: https://www.facebook.com/share/1AuVD36C6h/
+            - img [ref=e13]
+          - link "574 518 153" [ref=e15] [cursor=pointer]:
+            - /url: tel:+48574518153
+            - button "574 518 153" [ref=e16]:
+              - img [ref=e17]
+              - generic [ref=e19]: 574 518 153
+    - generic [ref=e21]:
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - img [ref=e24]
+          - generic [ref=e26]: 5,0
+          - generic [ref=e27]: w Google · Gliwice
+        - heading "REMONTY KOMPLEKSOWE" [level=1] [ref=e28]
+        - heading "DLA WYMAGAJĄCYCH" [level=2] [ref=e29]
+        - paragraph [ref=e30]:
+          - text: Stawiamy na to, że
+          - strong [ref=e31]: jedna ekipa robi wszystko
+          - text: — od projektu po wykończenie.
+        - generic [ref=e32]:
+          - img [ref=e33]
+          - generic [ref=e36]:
+            - text: Realizujemy projekty w promieniu
+            - strong [ref=e37]: 50 km od Gliwic
+        - list [ref=e38]:
+          - listitem [ref=e39]:
+            - img [ref=e40]
+            - generic [ref=e43]:
+              - strong [ref=e44]: Pełne Zarządzanie Projektem
+              - text: — Nie szukasz ekip, masz tylko jednego partnera do rozmów.
+          - listitem [ref=e45]:
+            - img [ref=e46]
+            - generic [ref=e49]:
+              - strong [ref=e50]: Gwarancja Czystości i Terminowości
+              - text: — Pracujemy w standardzie, który szanuje Twój czas i przestrzeń.
+          - listitem [ref=e51]:
+            - img [ref=e52]
+            - generic [ref=e55]:
+              - strong [ref=e56]: Dostawy Materiałów
+              - text: — Korzystamy z naszych zniżek i logistyki, by oszczędzić Twój czas.
+        - generic [ref=e57]:
+          - link "Zadzwoń — darmowa wycena 574 518 153" [ref=e58] [cursor=pointer]:
+            - /url: tel:+48574518153
+            - generic [ref=e61]:
+              - img [ref=e63]
+              - generic [ref=e65]:
+                - generic [ref=e66]: Zadzwoń — darmowa wycena
+                - generic [ref=e67]: 574 518 153
+              - img [ref=e68]
+          - link "Facebook" [ref=e70] [cursor=pointer]:
+            - /url: https://www.facebook.com/share/1AuVD36C6h/
+            - img [ref=e71]
+            - generic [ref=e73]: Facebook
+        - paragraph [ref=e74]: Pn–Pt 8:00–18:00 · Sob 8:00–16:00
+      - generic [ref=e77]:
+        - img "Pavlo Chubarov — właściciel MILPA" [ref=e78]
+        - generic [ref=e79]:
+          - generic [ref=e80]:
+            - img [ref=e81]
+            - img [ref=e83]
+            - img [ref=e85]
+            - img [ref=e87]
+            - img [ref=e89]
+          - generic [ref=e91]: 5,0 Google
+        - generic [ref=e92]:
+          - generic [ref=e94]: PAVLO CHUBAROV
+          - generic [ref=e95]: Właściciel firmy
+    - generic [ref=e97]:
+      - generic [ref=e98]:
+        - generic [ref=e99]: Specjalizacja
+        - heading "Przejmujemy na siebie każdy etap inwestycji" [level=2] [ref=e100]
+        - paragraph [ref=e101]:
+          - text: MILPA — remonty mieszkań, domów i łazienek.
+          - strong [ref=e102]: 20 lat w branży.
+          - text: Postaw na jakość i doświadczenie!
+      - generic [ref=e103]:
+        - generic [ref=e104]:
+          - img [ref=e106]
+          - generic [ref=e112]:
+            - heading "Projektowanie i doradztwo" [level=3] [ref=e113]
+            - paragraph [ref=e114]: Twoja wizja przełożona na profesjonalne plany.
+        - generic [ref=e115]:
+          - img [ref=e117]
+          - generic [ref=e121]:
+            - heading "Zmiany konstrukcyjne" [level=3] [ref=e122]
+            - paragraph [ref=e123]: Bezpieczne przesuwanie i wyburzanie ścian.
+        - generic [ref=e124]:
+          - img [ref=e126]
+          - generic [ref=e128]:
+            - heading "Pełna instalacja" [level=3] [ref=e129]
+            - paragraph [ref=e130]: Profesjonalna elektryka i zaawansowana hydraulika.
+        - generic [ref=e131]:
+          - img [ref=e133]
+          - generic [ref=e137]:
+            - heading "Mistrzowskie rzemiosło" [level=3] [ref=e138]
+            - paragraph [ref=e139]: Precyzyjne kafelkowanie i najwyższej klasy wykończenie powierzchni.
+        - generic [ref=e140]:
+          - img [ref=e142]
+          - generic [ref=e146]:
+            - heading "Logistyka 360°" [level=3] [ref=e147]
+            - paragraph [ref=e148]: Doradztwo, zakup i dostawa wszystkich materiałów pod Twoje drzwi.
+    - generic [ref=e150]:
+      - generic [ref=e151]:
+        - generic [ref=e152]: Galeria
+        - heading "Efekty naszej pracy" [level=2] [ref=e153]
+        - paragraph [ref=e154]: Kliknij sekcję, żeby zobaczyć zdjęcia.
+      - generic [ref=e155]:
+        - generic [ref=e156]:
+          - button "PRZED Stan przed remontem Prace w toku — tak wyglądają nasze realizacje podczas wykonywania" [ref=e157] [cursor=pointer]:
+            - generic [ref=e158]:
+              - generic [ref=e159]: PRZED
+              - generic [ref=e160]:
+                - generic [ref=e161]: Stan przed remontem
+                - generic [ref=e162]: Prace w toku — tak wyglądają nasze realizacje podczas wykonywania
+            - img [ref=e163]
+          - generic [ref=e166]:
+            - figure "Prace w toku — salon" [ref=e167]:
+              - img "MILPA — Prace w toku — salon" [ref=e168]
+              - generic [ref=e169]: Prace w toku — salon
+            - figure "Instalacja ogrzewania podłogowego" [ref=e170]:
+              - img "MILPA — Instalacja ogrzewania podłogowego" [ref=e171]
+              - generic [ref=e172]: Instalacja ogrzewania podłogowego
+            - figure "Układanie parkietu jodełka" [ref=e173]:
+              - img "MILPA — Układanie parkietu jodełka" [ref=e174]
+              - generic [ref=e175]: Układanie parkietu jodełka
+            - figure "Poziomowanie gresu" [ref=e176]:
+              - img "MILPA — Poziomowanie gresu" [ref=e177]
+              - generic [ref=e178]: Poziomowanie gresu
+        - generic [ref=e179]:
+          - button "PO Efekt końcowy Gotowe wnętrza — tak wygląda przestrzeń po naszej pracy" [ref=e180] [cursor=pointer]:
+            - generic [ref=e181]:
+              - generic [ref=e182]: PO
+              - generic [ref=e183]:
+                - generic [ref=e184]: Efekt końcowy
+                - generic [ref=e185]: Gotowe wnętrza — tak wygląda przestrzeń po naszej pracy
+            - img [ref=e186]
+          - generic [ref=e190]:
+            - figure "Łazienka pod klucz — drewno & beton" [ref=e191]:
+              - img "MILPA — Łazienka pod klucz — drewno & beton" [ref=e192]
+              - generic [ref=e193]: Łazienka pod klucz — drewno & beton
+            - figure "Marmur & lustro LED" [ref=e194]:
+              - img "MILPA — Marmur & lustro LED" [ref=e195]
+              - generic [ref=e196]: Marmur & lustro LED
+            - figure "Wykończenie pod klucz" [ref=e197]:
+              - img "MILPA — Wykończenie pod klucz" [ref=e198]
+              - generic [ref=e199]: Wykończenie pod klucz
+            - figure "Wnętrze kompleksowe" [ref=e200]:
+              - img "MILPA — Wnętrze kompleksowe" [ref=e201]
+              - generic [ref=e202]: Wnętrze kompleksowe
+            - figure "Salon — finalizacja" [ref=e203]:
+              - img "MILPA — Salon — finalizacja" [ref=e204]
+              - generic [ref=e205]: Salon — finalizacja
+            - figure "Strefa dzienna" [ref=e206]:
+              - img "MILPA — Strefa dzienna" [ref=e207]
+              - generic [ref=e208]: Strefa dzienna
+        - generic [ref=e209]:
+          - button "Wszystkie realizacje Łazienki, podłogi, wnętrza pod klucz — pełna galeria z Gliwic i okolicy" [ref=e210] [cursor=pointer]:
+            - generic [ref=e212]:
+              - generic [ref=e213]: Wszystkie realizacje
+              - generic [ref=e214]: Łazienki, podłogi, wnętrza pod klucz — pełna galeria z Gliwic i okolicy
+            - img [ref=e215]
+          - generic [ref=e218]:
+            - generic [ref=e219]:
+              - button "Wszystkie15" [ref=e220] [cursor=pointer]
+              - button "Łazienki5" [ref=e221] [cursor=pointer]
+              - button "Podłogi3" [ref=e222] [cursor=pointer]
+              - button "Wnętrza7" [ref=e223] [cursor=pointer]
+            - generic [ref=e224]:
+              - figure "Łazienki Łazienka pod klucz — drewno & beton" [ref=e225]:
+                - img "MILPA — Łazienka pod klucz — drewno & beton"
+                - generic [ref=e227]:
+                  - generic [ref=e228]: Łazienki
+                  - generic [ref=e229]: Łazienka pod klucz — drewno & beton
+              - figure "Łazienki Marmur & lustro LED" [ref=e230]:
+                - img "MILPA — Marmur & lustro LED"
+                - generic [ref=e232]:
+                  - generic [ref=e233]: Łazienki
+                  - generic [ref=e234]: Marmur & lustro LED
+              - figure "Łazienki Strefa umywalki — drewno" [ref=e235]:
+                - img "MILPA — Strefa umywalki — drewno"
+                - generic [ref=e237]:
+                  - generic [ref=e238]: Łazienki
+                  - generic [ref=e239]: Strefa umywalki — drewno
+              - figure "Łazienki WC na poddaszu — beton & cegła" [ref=e240]:
+                - img "MILPA — WC na poddaszu — beton & cegła"
+                - generic [ref=e242]:
+                  - generic [ref=e243]: Łazienki
+                  - generic [ref=e244]: WC na poddaszu — beton & cegła
+              - figure "Łazienki Glazura pionowa — montaż" [ref=e245]:
+                - img "MILPA — Glazura pionowa — montaż"
+                - generic [ref=e247]:
+                  - generic [ref=e248]: Łazienki
+                  - generic [ref=e249]: Glazura pionowa — montaż
+              - figure "Wnętrza Wykończenie pod klucz" [ref=e250]:
+                - img "MILPA — Wykończenie pod klucz"
+                - generic [ref=e252]:
+                  - generic [ref=e253]: Wnętrza
+                  - generic [ref=e254]: Wykończenie pod klucz
+              - figure "Wnętrza Salon — finalizacja" [ref=e255]:
+                - img "MILPA — Salon — finalizacja"
+                - generic [ref=e257]:
+                  - generic [ref=e258]: Wnętrza
+                  - generic [ref=e259]: Salon — finalizacja
+              - figure "Wnętrza Aranżacja przestrzeni" [ref=e260]:
+                - img "MILPA — Aranżacja przestrzeni"
+                - generic [ref=e262]:
+                  - generic [ref=e263]: Wnętrza
+                  - generic [ref=e264]: Aranżacja przestrzeni
+              - figure "Wnętrza Detal wykończeniowy" [ref=e265]:
+                - img "MILPA — Detal wykończeniowy"
+                - generic [ref=e267]:
+                  - generic [ref=e268]: Wnętrza
+                  - generic [ref=e269]: Detal wykończeniowy
+              - figure "Wnętrza Wnętrze kompleksowe" [ref=e270]:
+                - img "MILPA — Wnętrze kompleksowe"
+                - generic [ref=e272]:
+                  - generic [ref=e273]: Wnętrza
+                  - generic [ref=e274]: Wnętrze kompleksowe
+              - figure "Wnętrza Strefa dzienna" [ref=e275]:
+                - img "MILPA — Strefa dzienna"
+                - generic [ref=e277]:
+                  - generic [ref=e278]: Wnętrza
+                  - generic [ref=e279]: Strefa dzienna
+              - figure "Wnętrza Realizacja w toku" [ref=e280]:
+                - img "MILPA — Realizacja w toku"
+                - generic [ref=e282]:
+                  - generic [ref=e283]: Wnętrza
+                  - generic [ref=e284]: Realizacja w toku
+              - figure "Podłogi Parkiet jodełka — układanie" [ref=e285]:
+                - img "MILPA — Parkiet jodełka — układanie"
+                - generic [ref=e287]:
+                  - generic [ref=e288]: Podłogi
+                  - generic [ref=e289]: Parkiet jodełka — układanie
+              - figure "Podłogi Ogrzewanie podłogowe" [ref=e290]:
+                - img "MILPA — Ogrzewanie podłogowe"
+                - generic [ref=e292]:
+                  - generic [ref=e293]: Podłogi
+                  - generic [ref=e294]: Ogrzewanie podłogowe
+              - figure "Podłogi Gres drewnopodobny — poziomowanie" [ref=e295]:
+                - img "MILPA — Gres drewnopodobny — poziomowanie"
+                - generic [ref=e297]:
+                  - generic [ref=e298]: Podłogi
+                  - generic [ref=e299]: Gres drewnopodobny — poziomowanie
+    - generic [ref=e301]:
+      - generic [ref=e302]:
+        - generic [ref=e303]:
+          - generic [ref=e304]:
+            - img [ref=e305]
+            - img [ref=e307]
+            - img [ref=e309]
+            - img [ref=e311]
+            - img [ref=e313]
+          - generic [ref=e315]: 5,0 / 5,0
+          - generic [ref=e316]: w Google
+        - heading "Klienci mówią sami za siebie" [level=2] [ref=e317]
+      - generic [ref=e318]:
+        - generic [ref=e319]:
+          - img [ref=e320]
+          - generic [ref=e323]:
+            - img [ref=e324]
+            - img [ref=e326]
+            - img [ref=e328]
+            - img [ref=e330]
+            - img [ref=e332]
+          - paragraph [ref=e334]: "\"Super robota, świetny kontakt i solidne wykonanie! Polecam!\""
+          - generic [ref=e335]: Nena Jakaś
+        - generic [ref=e336]:
+          - img [ref=e337]
+          - generic [ref=e340]:
+            - img [ref=e341]
+            - img [ref=e343]
+            - img [ref=e345]
+            - img [ref=e347]
+            - img [ref=e349]
+          - paragraph [ref=e351]: "\"Fachowe doradztwo, świetny kontakt i wysoka jakość pracy. Z czystym sumieniem mogę polecić.\""
+          - generic [ref=e352]: Marcin
+        - generic [ref=e353]:
+          - img [ref=e354]
+          - generic [ref=e357]:
+            - img [ref=e358]
+            - img [ref=e360]
+            - img [ref=e362]
+            - img [ref=e364]
+            - img [ref=e366]
+          - paragraph [ref=e368]: "\"Bardzo polecam tę firmę — profesjonalna robota.\""
+          - generic [ref=e369]: Anna Masalska
+        - generic [ref=e370]:
+          - img [ref=e371]
+          - generic [ref=e374]:
+            - img [ref=e375]
+            - img [ref=e377]
+            - img [ref=e379]
+            - img [ref=e381]
+            - img [ref=e383]
+          - paragraph [ref=e385]: "\"Solidna firma. Dbałość o klienta i dobry kontakt. Polecam usługi firmy MILPA.\""
+          - generic [ref=e386]: Krzysztof P.
+        - generic [ref=e387]:
+          - img [ref=e388]
+          - generic [ref=e391]:
+            - img [ref=e392]
+            - img [ref=e394]
+            - img [ref=e396]
+            - img [ref=e398]
+            - img [ref=e400]
+          - paragraph [ref=e402]: "\"Solidna firma. Bardzo dobre wykonanie, szybko i solidnie. Polecam.\""
+          - generic [ref=e403]: Małgorzata Jeniec
+        - generic [ref=e404]:
+          - img [ref=e405]
+          - generic [ref=e408]:
+            - img [ref=e409]
+            - img [ref=e411]
+            - img [ref=e413]
+            - img [ref=e415]
+            - img [ref=e417]
+          - paragraph [ref=e419]: "\"Wszystko sprawnie, bez problemu ugadane i wykonane porządnie. Polecam!\""
+          - generic [ref=e420]: Magdalena Wita
+    - generic [ref=e422]:
+      - generic [ref=e423]:
+        - img [ref=e424]
+        - generic [ref=e427]:
+          - text: Do
+          - strong [ref=e428]: 50 km od Gliwic
+      - heading "Gotowy na nowe wnętrze?" [level=2] [ref=e429]
+      - paragraph [ref=e430]: Zadzwoń lub napisz na Facebooku — bezpłatna wycena.
+      - generic [ref=e431]:
+        - link "Zadzwoń teraz 574 518 153" [ref=e432] [cursor=pointer]:
+          - /url: tel:+48574518153
+          - generic [ref=e433]:
+            - img [ref=e435]
+            - generic [ref=e437]:
+              - generic [ref=e438]: Zadzwoń teraz
+              - generic [ref=e439]: 574 518 153
+        - link "Napisz na Facebooku" [ref=e440] [cursor=pointer]:
+          - /url: https://www.facebook.com/share/1AuVD36C6h/
+          - button "Napisz na Facebooku" [ref=e441]:
+            - img [ref=e442]
+            - text: Napisz na Facebooku
+    - contentinfo [ref=e444]:
+      - generic [ref=e445]:
+        - generic [ref=e446]:
+          - generic [ref=e448]:
+            - generic [ref=e449]: MILPA
+            - generic [ref=e450]: Remonty Kompleksowe
+          - paragraph [ref=e451]: Pavlo Chubarov — właściciel
+          - link "Facebook MILPA" [ref=e452] [cursor=pointer]:
+            - /url: https://www.facebook.com/share/1AuVD36C6h/
+            - button "Facebook MILPA" [ref=e453]:
+              - img [ref=e454]
+              - text: Facebook MILPA
+        - generic [ref=e456]:
+          - generic [ref=e457]:
+            - img [ref=e458]
+            - generic [ref=e461]: Kozielska 106b, 44-121 Gliwice
+          - generic [ref=e462]:
+            - img [ref=e463]
+            - link "574 518 153" [ref=e465] [cursor=pointer]:
+              - /url: tel:+48574518153
+          - generic [ref=e466]:
+            - img [ref=e467]
+            - generic [ref=e470]:
+              - generic [ref=e471]: "Pon–Pt: 08:00–18:00"
+              - generic [ref=e472]: "Sob: 08:00–16:00"
+              - generic [ref=e473]: "Niedz: zamknięte"
+        - generic [ref=e474]:
+          - 'link "Zadzwoń: 574 518 153" [ref=e475] [cursor=pointer]':
+            - /url: tel:+48574518153
+            - 'button "Zadzwoń: 574 518 153" [ref=e476]':
+              - img [ref=e477]
+              - text: "Zadzwoń: 574 518 153"
+          - link "Znajdź nas na Facebooku" [ref=e480] [cursor=pointer]:
+            - /url: https://www.facebook.com/share/1AuVD36C6h/
+            - button "Znajdź nas na Facebooku" [ref=e481]:
+              - img [ref=e482]
+              - text: Znajdź nas na Facebooku
+      - generic [ref=e484]: © 2026 MILPA — Pavlo Chubarov. Wszelkie prawa zastrzeżone.
